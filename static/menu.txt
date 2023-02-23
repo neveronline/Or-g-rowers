@@ -1,0 +1,9 @@
+        Main Menu
+-----------------------------
+1. Weather Info
+2. Loan Info
+3. Fertilizer info
+4. Shipping Cost
+5. Subsidies Info
+6. Historical Price Info
+7. Exit
