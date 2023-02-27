@@ -1,0 +1,8 @@
+       Shipping info
+-----------------------------
+1. Set From Address
+2. Set Shipping Address
+3. Set Box Dimension
+4. Search for Best Shipping Plan
+5. Export to File
+6. Back to Main Menu
